@@ -1,1 +1,12 @@
-/* CSS Style Sheet */
+Body{
+    text-align: center;
+}
+hr{
+    width: 650px;
+}
+h1{
+    margin-left: 900;
+}
+input{
+text-align: left;
+}
