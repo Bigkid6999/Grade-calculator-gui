@@ -2,15 +2,18 @@
 document.getElementById("btn").addEventListener("click", btnClicked);
 //Input
 
+
 function btnClicked(){
-let grade1 = +prompt("Enter the grade for client side scripting");
-let grade2 = +prompt("Enter the grade for structured programing 1");
-let grade3 = +prompt("Enter the grade for structured programing 2")
-let grade4 = +prompt("Enter the grade for client side scripting 2");
-let grade5 = +prompt("Enter the grade for project A");
+let grade1 = document.getElementById("1").value;
+let grade2 = document.getElementById("2").value;
+let grade3 = document.getElementById("3").value;
+let grade4 = document.getElementById("4").value;
+let grade5 = document.getElementById("5").value;
 
-let total = grade1 + grade2 + grade3 + grade4 + grade5 /5;
+let = total = document.getElementById("1")+document.getElementById ("2")
 
+
+ //Output
 alert(total);
 }
  
