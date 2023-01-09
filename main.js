@@ -1,5 +1,5 @@
 //SIMPLE ADDITION IPO CALCULATOR BY MR.V
-document.getElementById("btn").addEventListener("click", btnClicked)
+document.getElementById("btn").addEventListener("click", btnClicked);
 //Input
 
 function btnClicked(){
@@ -11,10 +11,9 @@ let grade5 = +prompt("Enter the grade for project A");
 
 let total = grade1 + grade2 + grade3 + grade4 + grade5 /5;
 
-alert(total)
+alert(total);
 }
  
 
 
-prompt ("balls")
 
