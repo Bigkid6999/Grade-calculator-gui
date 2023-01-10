@@ -24,11 +24,11 @@ let grade3 = document.getElementById("3").value;
 let grade4 = document.getElementById("4").value;
 let grade5 = document.getElementById("5").value;
 
-let = total = document.getElementById("1")+document.getElementById ("2")
-
+let  total = grade1 + grade2 + grade3 + grade4 + grade5 ;
 
  //Output
 alert(total);
+
 }
  
 
