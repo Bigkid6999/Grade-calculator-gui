@@ -1,4 +1,4 @@
-//SIMPLE ADDITION IPO CALCULATOR BY MR.V
+
 document.getElementById("btn").addEventListener("click", btnClicked);
 
 
